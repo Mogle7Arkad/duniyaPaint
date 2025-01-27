@@ -1,6 +1,7 @@
 import React from "react";
 import { Menu } from "lucide-react";
 import DesktopNav from "./DesktopNav";
+import MobileMenu from "./MobileMenu";
 
 const Navbar = () => {
   return (
@@ -10,6 +11,7 @@ const Navbar = () => {
           Duniya Finishes
         </a>
         <DesktopNav />
+        <MobileMenu />
       </div>
     </header>
   );
