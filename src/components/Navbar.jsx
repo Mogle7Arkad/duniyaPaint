@@ -1,5 +1,6 @@
 import React from "react";
 import { Menu } from "lucide-react";
+import DesktopNav from "./DesktopNav";
 
 const Navbar = () => {
   return (
@@ -8,6 +9,7 @@ const Navbar = () => {
         <a href="#" className="text-2xl font-bold text-purple-600">
           Duniya Finishes
         </a>
+        <DesktopNav />
       </div>
     </header>
   );
