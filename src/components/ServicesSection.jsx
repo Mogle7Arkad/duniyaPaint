@@ -2,7 +2,7 @@ import services from "../Services";
 
 function ServicesSection() {
     return (
-      <section className="bg-blue-100 py-16">
+      <section className="bg-blue-200 py-16">
         <div className="max-w-7xl mx-auto px-6 text-center">
 
           <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
@@ -19,7 +19,7 @@ function ServicesSection() {
             {services.map((service, index) => (
               <div
                 key={index}
-                className="bg-white rounded-lg overflow-hidden shadow hover:shadow-lg transition-shadow duration-300 transform hover:scale-105"
+                className="bg-gray-200 rounded-lg overflow-hidden shadow hover:shadow-lg transition-shadow duration-300 transform hover:scale-105"
               >
                 <img
                   src={service.image}
