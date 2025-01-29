@@ -34,7 +34,7 @@ function ServicesSection() {
                 <p className="mt-4 text-gray-600 mb-4 px-4">
                   {service.description}
                 </p>
-                <button className="border bg-blue-200 border-gray-300 text-gray-800 hover:bg-gray-100 px-6 py-3 mb-4 text-lg rounded-lg transition-transform transform hover:scale-105">
+                <button className="border bg-blue-400 border-gray-300 text-gray-800 hover:bg-gray-100 px-6 py-3 mb-4 text-lg rounded-lg transition-transform transform hover:scale-105">
                   See More.
               </button>
               </div>
