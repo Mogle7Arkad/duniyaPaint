@@ -9,10 +9,9 @@ function ServicesSection() {
             Our Professional Painting Services
           </h2>
           <p className="mt-4 text-gray-600">
-            At Precision Painting Plus, we’re known for transforming homes and
+            At Duniya Painting and Finishing, we’re always ready and eader to transform your homes and
             businesses with our professional painting services. Whether you need
-            interior painting, exterior painting, or commercial services, we
-            provide expert local painters to deliver high-quality results on time.
+            interior painting, exterior painting, plaster of paris (POP) services or commercial services, our team are always ready to deliver high-quality results on time.
           </p>
   
           <div className="mt-12 grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
