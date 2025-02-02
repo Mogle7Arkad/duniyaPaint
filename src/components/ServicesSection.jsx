@@ -9,7 +9,7 @@ function ServicesSection() {
             Our Professional Painting Services
           </h2>
           <p className="mt-4 text-gray-600">
-            At Duniya Painting and Finishing, we’re always ready and eader to transform your homes and
+            At Duniya Painting and Finishing, we’re always ready and eager to transform your homes and
             businesses with our professional painting services. Whether you need
             interior painting, exterior painting, plaster of paris (POP) services or commercial services, our team are always ready to deliver high-quality results on time.
           </p>
