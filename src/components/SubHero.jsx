@@ -23,7 +23,7 @@ function SubHero() {
   
           <div className="transition-transform transform hover:scale-105">
             <img
-              src="../assets/house.jpg"
+              src="../assets/services/int1.jpg"
               alt="Painting Service"
               className="w-full h-auto rounded-lg shadow-lg"
             />

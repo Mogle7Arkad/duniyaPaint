@@ -2,17 +2,17 @@ const portfolio = [
     {
       title: "Luxury Interior Painting",
       category: "Interior",
-      image: "https://via.placeholder.com/400x300", 
+      image: "../assets/interior2.jpg", 
     },
     {
       title: "Modern House Exterior",
       category: "Exterior",
-      image: "https://via.placeholder.com/400x300",
+      image: "../assets/exterior1.jpg",
     },
     {
       title: "Commercial Office Finishing",
       category: "Commercial",
-      image: "https://via.placeholder.com/400x300",
+      image: "../assets/comm.jpg",
     },
     {
       title: "Custom Decorative Walls",

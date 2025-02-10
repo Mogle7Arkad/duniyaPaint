@@ -2,7 +2,7 @@ import portfolios from "../Portfolio";
 
 function Portfolio() {
   return (
-    <section className="py-16 bg-gray-100">
+    <section className="py-16 bg-gray-50">
       <div className="max-w-7xl mx-auto px-6 text-center">
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
           Our Painting & Finishes Portfolio

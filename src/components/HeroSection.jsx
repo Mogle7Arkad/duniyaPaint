@@ -3,7 +3,7 @@ export default function HeroSection() {
   return (
 <div
       className="relative bg-cover bg-center h-[60vh] lg:h-screen flex items-center justify-center px-4 sm:px-8"
-      style={{ backgroundImage: "url(/assets/services/interiorService.webp)" }}
+      style={{ backgroundImage: "url(/assets/services/hero1.jpg)" }}
     >
       <div className="absolute inset-0 bg-black bg-opacity-20"></div>
       <div className="relative z-10 text-center max-w-2xl">
